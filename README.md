@@ -56,6 +56,8 @@ link do wiki
 # Weryfikacja pokrycia kodu testami 
 
 jacoco
+https://stackoverflow.com/questions/13031219/how-to-configure-multi-module-maven-sonar-jacoco-to-give-merged-coverage-rep
+
 
 # Weryfikacja jakości kodu źródłowego
 
