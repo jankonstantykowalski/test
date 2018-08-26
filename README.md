@@ -41,6 +41,10 @@ diagram komponentów
 
 # Strategia zarządzaniem repozytorium GIT
 
+![alt text](https://cdn-images-1.medium.com/max/1600/1*CChjPbEmKDWIpPG-OVXfFg.png "Logo Title Text 1")
+
+![alt text](https://cdn-images-1.medium.com/max/1600/1*ddK2ImDbJmkBAH8MGKkT2Q.png "Logo Title Text 1")
+
 Gałąź bazowa to gałąź na podstawie której tworzona jest inna gałąź.
 Gałąź docelowa to gałąź z którą integrowane są zmiany z bieżącej gałęzi.
 Konwencja nazewnicza to konwencja wg której nadawane są nazwy poszczególnym gałęziom.
