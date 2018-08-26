@@ -63,6 +63,11 @@ n/d
 ### Konwencja nazewnicza
 master
 
+### Format numeru wersji
+```
+nazwa-vX.Y.Z
+```
+
 ## Develop
 
 ### Opis
@@ -76,6 +81,11 @@ master, release
 
 ### Konwencja nazewnicza
 develop
+
+### Format numeru wersji
+```
+nazwa-YYYYMMDD-HHMMSS.COMMMIT_ID-SNAPSHOT
+```
 
 ## Release
 
