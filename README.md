@@ -118,6 +118,8 @@ Wykorzystanie wewnętrznej bazy danych H2 (skrypty SQL kreujące schemat bazy da
 ### Mockowanie usług sieciowych typu RESTful
 
 Wykorzystanie narzędzia WireMock do symulowania odpowiedzi z usług typu RESTful udostępnianych przez zewnętrzne systemy.
+- https://dzone.com/articles/using-wiremock-to-mock-underlying-services-during
+- http://cloud.spring.io/spring-cloud-static/spring-cloud-contract/1.1.2.RELEASE/#_spring_cloud_contract_wiremock
 
 ## Weryfikacja pokrycia kodu testami 
 
