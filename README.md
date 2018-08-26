@@ -53,13 +53,14 @@ link do wiki
 
 ## Testy integracyjne
 
-# Weryfikacja pokrycia kodu testami 
+## Weryfikacja pokrycia kodu testami 
 
-jacoco
-https://stackoverflow.com/questions/13031219/how-to-configure-multi-module-maven-sonar-jacoco-to-give-merged-coverage-rep
+### Konfiguracja sonar + jacoco
+- sonar jacoco maven multi module
+- https://stackoverflow.com/questions/13031219/how-to-configure-multi-module-maven-sonar-jacoco-to-give-merged-coverage-rep
+- https://github.com/acntech/jacoco-multimodule-maven
 
-
-# Weryfikacja jakości kodu źródłowego
+## Weryfikacja jakości kodu źródłowego
 
 Jakość kodu źródłowego weryfikowana jest za pomocą narzędzia SonarQube dostepnego w lokalizacji: 
 
