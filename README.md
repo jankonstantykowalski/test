@@ -105,7 +105,19 @@ link do wiki
 
 ## Testy jednostkowe
 
+Każda warstwa testowana oddzielnie z zaślepionymi wywołaniami metod z interfejsów z innych warstw.
+
 ## Testy integracyjne
+
+Wszystkie warstwy testowane są razem (testy komunikacji i zgodności wewnętrznego API) z zaślepionymi odwołaniami do usług udostępnianch przez systemy zewnętrzne (np.: bazy danych, usługi sieciowe).
+
+### Mockowanie bazy danych
+
+Wykorzystanie wewnętrznej bazy danych H2 (skrypty SQL kreujące schemat bazy danych oraz dane testowe)
+
+### Mockowanie usług sieciowych typu RESTful
+
+Wykorzystanie narzędzia WireMock do symulowania odpowiedzi z usług typu RESTful udostępnianych przez zewnętrzne systemy.
 
 ## Weryfikacja pokrycia kodu testami 
 
