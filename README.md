@@ -39,7 +39,7 @@ diagram komponentów
 | Maven Wrapper | v | |
 | Feign | v | Klient usług sieciowych typu RESTful |
 
-# Strategia zarządzaniem repozytorium GIT
+# Strategia zarządzania repozytorium GIT
 
 ![alt text](https://cdn-images-1.medium.com/max/1600/1*CChjPbEmKDWIpPG-OVXfFg.png "Logo Title Text 1")
 
