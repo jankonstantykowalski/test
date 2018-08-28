@@ -14,6 +14,8 @@ diagram komponentów
 
 # Struktura projektu
 
+- https://terasolunaorg.github.io/guideline/5.0.x/en/ImplementationAtEachLayer/CreateWebApplicationProject.html#x-xx-fw-9999-format-message-id
+
 ## Opis modułów
 
 | Nazwa modułu | Opis |
